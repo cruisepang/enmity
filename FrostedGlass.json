@@ -145,9 +145,9 @@
       "PRIMARY_DARK_800": "#090909",
       "PRIMARY_DARK_900": "#090909"
    },
-  "background": {
+  "background": {"https://www.pexels.com/photo/landscape-photography-of-snowy-mountain-1366919/"
     "blur": 3.6,
-    "url": "https://cdn.discordapp.com/attachments/768134559157714994/1139468125105029150/IMG_4070.jpg?ex=660674e3&is=65f3ffe3&hm=f850a5c40e743b54ca5100fda87b58aac0c02a66f42a174702a2a76f3dffab2a&",
+    "url": "",
     "alpha": 0.88
   }
 }
